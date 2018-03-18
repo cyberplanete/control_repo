@@ -1,0 +1,2 @@
+class profil ::db {
+}
