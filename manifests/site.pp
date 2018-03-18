@@ -4,7 +4,5 @@ file{'/root/README':
   content => 'This is a readme file',
   owner   => 'root',
 }
-file{'/root/README':
-owner   => 'root',
-}
+
 }
